@@ -18,13 +18,14 @@ var student_four = {
 	code: 987654321
 	};
 
+// array
 var listofstudent_O = [student_one,student_two,student_three,student_four];
 
 // hiển thị name và code của student_one
 console.log(listofstudent_O[1].name);
 console.log(listofstudent_O[1].code);
 
-// Array
+// list danh sách thông tin sinh viên
 var listofstudent_A = [
 	{name: 'Nguyễn Văn A', code: 012345678 },
 	{name: 'Nguyễn Văn B', code: 876543210},
